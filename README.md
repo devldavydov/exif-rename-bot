@@ -1,2 +1,2 @@
 # exif-rename-bot
-EXIF rename Telegram Bot
+Telegram Bot from rename jpeg files according to EXIF datetime
